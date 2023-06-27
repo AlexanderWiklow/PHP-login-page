@@ -13,7 +13,7 @@ This project provides a basic login page with HTML frontend and PHP backend. It 
 
 ## Usage
 1. Open the `loginForm.html` file in a web browser.
-2. Enter your username "Testsson" and "12345qwert"
+2. Enter your username "Testsson" and password "12345qwert".
 3. Click the "Login" button.
 4. If the credentials are valid, you will be redirected to the logged-in page.
 
